@@ -1,0 +1,18 @@
+body {
+  background-color: antiquewhite;
+}
+
+.contenedor {
+  padding: 30px;
+  background-color: brown;
+}
+
+.contenedor2 {
+  padding: 30px;
+  background-color: burlywood;
+}
+
+.input-prueba {
+  border: 1px solid black;
+  outline: none;
+}
